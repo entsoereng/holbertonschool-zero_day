@@ -1,1 +1,1 @@
-My first readme
+I am studying at Holberton School
